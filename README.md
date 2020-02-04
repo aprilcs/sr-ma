@@ -1,5 +1,4 @@
-# sr-ma
-Ebola virus vaccine safety systematic review and meta-analysis
+# Ebola virus vaccine safety systematic review and meta-analysis
 
 # Description
 This replication archive contains all data and code to replicate our Ebola virus vaccine systematic review and meta-analysis. This is a SR under conduct by a couple of researchers teaming in a research group as the outbreak of Ebola which took place (2013–2016) in Africa resulted in a significant mortality and morbidity. Furthermore, since there are many published and ongoing trials assessing the safety of Ebola vaccines, we thought this would provide a great opportunity to tackle this hotly debated issue.
