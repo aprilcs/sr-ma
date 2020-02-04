@@ -3,7 +3,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aprilcs/sr-ma/master?urlpath=rstudio)
 
 # Description
-This replication archive contains all data and code to replicate our Ebola virus vaccine systematic review and meta-analysis. This is a SR under conduct by a couple of researchers teaming in a research group as the outbreak of Ebola which took place (2013–2016) in Africa resulted in a significant mortality and morbidity. Furthermore, since there are many published and ongoing trials assessing the safety of Ebola vaccines, we thought this would provide a great opportunity to tackle this hotly debated issue.
+This replication archive contains all data and code to replicate our Ebola virus vaccine systematic review and meta-analysis. This is a SR under conduct by a couple of researchers teaming in a research group as the outbreak of Ebola which took place (2013–2016) in Africa resulted in a significant mortality and morbidity. Furthermore, since there are many published and ongoing trials assessing the safety of Ebola vaccines, we thought this would provide a great opportunity to tackle this hotly debated issue. Add an edit.
 
 Ebola started to fire again and new fatal outbreak appeared in the Democratic Republic of Congo since August 2018, which caused infection to more than 1000 people according to the World Health Organization, and 629 people have been killed till now. Hence, it is considered the second worst Ebola outbreak, after the first one in West Africa in 2014, which infected more than 26,000 and killed about 11,300 people along outbreak course.
 
