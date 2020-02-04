@@ -1,0 +1,49 @@
+Adverse events,Study,et,nt,ec,nc
+Arthralgia,A,30,120,20,100
+Arthralgia,B,15,90,12,70
+Arthralgia,C,25,110,24,90
+Arthralgia,D,17,85,14,80
+Arthralgia,E,14,72,12,60
+Arthralgia,F,23,115,18,100
+Diarrhea,A,15,120,10,100
+Diarrhea,B,11,90,9,70
+Diarrhea,C,13,110,15,90
+Diarrhea,D,9,85,9,80
+Diarrhea,E,6,72,6,60
+Diarrhea,F,16,115,13,100
+Fever,A,22,120,18,100
+Fever,B,19,90,11,70
+Fever,C,17,110,12,90
+Fever,D,12,85,11,80
+Fever,E,13,72,4,60
+Fever,F,18,115,12,100
+Headache,A,12,120,9,100
+Headache,B,9,90,4,70
+Headache,C,10,110,5,90
+Headache,D,9,85,8,80
+Headache,E,10,72,12,60
+Headache,F,19,115,14,100
+Induration,A,5,120,7,100
+Induration,B,6,90,5,70
+Induration,C,7,110,7,90
+Induration,D,10,85,7,80
+Induration,E,7,72,4,60
+Induration,F,4,115,5,100
+Injection pain,A,8,120,8,100
+Injection pain,B,6,90,4,70
+Injection pain,C,9,110,5,90
+Injection pain,D,5,85,8,80
+Injection pain,E,2,72,3,60
+Injection pain,F,8,115,9,100
+Myalgia,A,2,120,2,100
+Myalgia,B,1,90,1,70
+Myalgia,C,1,110,2,90
+Myalgia,D,1,85,1,80
+Myalgia,E,5,72,5,60
+Myalgia,F,1,115,2,100
+Vomitting,A,1,120,2,100
+Vomitting,B,2,90,1,70
+Vomitting,C,1,110,1,90
+Vomitting,D,1,85,1,80
+Vomitting,E,3,72,1,60
+Vomitting,F,2,115,1,100
